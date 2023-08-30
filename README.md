@@ -25,6 +25,9 @@ This project aims to develop and analyze image classification models for the CIF
 
 2. **Dataset Details**: The CIFAR-10 dataset consists of 60,000 images divided into a training set of 50,000 images and a test set of 10,000 images. Images are categorized into 10 classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck.
 
+   ![image](https://github.com/moujanmrj/CI-Neural-Network-Project/assets/58330491/1fce7ba9-c3bc-4ea4-8f6d-bcb9e1346eab)
+
+
 ### Dependencies
 
 1. **Library Installation**: Install the required libraries using the following command:
