@@ -70,11 +70,6 @@ This project showcases the evolution of image classification models using differ
 
 Visualizations, such as accuracy and loss curves, offer insights into the model's performance and training progress.
 
-## Contributors
 
-We invite contributions from the community to enhance and refine the CIFAR-10 Image Classification
-- Report bugs, suggest improvements, or request features by creating an issue.
-- Fork the repository, implement changes, and submit pull requests.
-- Enhance fuzzy logic rules, membership functions, and the user interface.
 
 
